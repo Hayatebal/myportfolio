@@ -1,0 +1,9 @@
+#home{
+    height: 100vh;
+    background: linear-gradient(to right, aliceblue,pink );
+    color:aliceblue;
+    margin-bottom: 70px;
+    }
+    #skill{
+    margin-top: 70px;
+    }
